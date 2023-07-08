@@ -5,7 +5,11 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoValli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoValli&layout=compact&langs_count=6&theme=dracula"/>
 
-   <!--https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical-->
+   <!--https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
+
+   https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true
+   
+   -->
 
 </div>
 <div style="display: inline_block"><br>
