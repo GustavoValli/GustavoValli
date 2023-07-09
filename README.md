@@ -1,9 +1,13 @@
 ## Bem-vindo(a) ao meu perfil 😁
+<p>
+Atualmente estou cursando a faculdade de Ciência da Computação e vou colocar aqui os meus projetos mais interessantes. Todos os projetos são feitos com o intuito de estudar e praticar a arte da programação.
+</p>
+<br>
 
  <div>
    <a href="https://github.com/GustavoValli">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoValli&show_icons=true&theme=dracula&showicons=true&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoValli&layout=compact&langs_count=32&theme=dracula"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoValli&layout=compact&langs_count=6&theme=dracula"/>
 
    <!-- 
 https://github-readme-stats.vercel.app/api?username=GustavoValli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true
