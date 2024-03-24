@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Bem-vindo(a) ao meu perfil
 <p>
 Atualmente estou cursando a faculdade de Ciência da Computação e vou colocar aqui os meus projetos mais interessantes. Todos os projetos são feitos com o intuito de estudar e praticar a arte da programação.
 </p>
